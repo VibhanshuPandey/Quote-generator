@@ -78,7 +78,7 @@ button:active {
 
 /* loader */
 
-.loader {
+/* .loader {
     background: #b9b6b6;
     margin: 0;
   }
@@ -228,8 +228,8 @@ button:active {
     100% {
       transform: translate(0px, 0px) scale(1);
     }
-  }
-/* .loader {
+  } */
+.loader {
     border: 16px solid #f3f3f3;
     border-top: 16px solid #333;
     border-radius: 50%;
@@ -241,7 +241,7 @@ button:active {
   @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
-  } */
+  }
 
 .button-container {
     margin-top: 15px;
