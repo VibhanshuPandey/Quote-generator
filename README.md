@@ -2,7 +2,7 @@
 
 A simple web application that displays random quotes and allows users to share them on Twitter.
 
-![Quote Generator Screenshot](![image](https://github.com/VibhanshuPandey/Quote-generator/assets/111169133/939841ff-fef1-4a63-b609-45f32419820a))
+![Quote Generator Screenshot](Quote%20generator/image.png)
 
 ## Features
 
