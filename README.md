@@ -5,7 +5,6 @@ A simple web application that displays random quotes and allows users to share t
 ![Quote Generator Screenshot](Quote%20generator/image.png)
 
 ## Features
-
 - Fetches quotes from an API
 - Displays a new random quote with each click of the "New Quote" button
 - Provides the ability to tweet the current quote
