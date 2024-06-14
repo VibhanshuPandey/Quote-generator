@@ -279,6 +279,7 @@ const localQuotes = [
         "author": "Anonymous",
         "tag": "general"
     },
+    
     {
         "text": "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
         "author": "Anonymous",
